@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayFn",
+            "request": "launch",
+            "mainClass": "ArrayFn",
+            "projectName": "java_dcb5429d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Text",
+            "request": "launch",
+            "mainClass": "Text"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IntType",
+            "request": "launch",
+            "mainClass": "IntType"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld"
+        }
+    ]
+}
