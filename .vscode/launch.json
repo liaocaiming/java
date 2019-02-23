@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - FileStreamTest",
+            "request": "launch",
+            "mainClass": "FileStreamTest",
+            "projectName": "java_dcb5429d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - fileStreamTest",
+            "request": "launch",
+            "mainClass": "fileStreamTest",
+            "projectName": "java_dcb5429d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BRRead",
+            "request": "launch",
+            "mainClass": "BRRead",
+            "projectName": "java_dcb5429d"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ArrayFn",
             "request": "launch",
             "mainClass": "ArrayFn",
